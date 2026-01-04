@@ -10,5 +10,5 @@ Note that while this does eliminate the requirement for frequently interrupting 
 which could be valuable in projects where it is deisrable to not interrupt the task being performed by the microcontroller, it doesn't entirely eliminate the requirement for a
 wired connection to make certain changes.
 
-I look forward to any other applications where this code could help a fellow creator out, perhaps in applications where it's more feasible to connect to a seperate device and use
-it's computing power instead of relying on the microcontroller's limited capabilities where a similar approach could be used.
+I look forward to any other applications where this code could help a fellow creator out, perhaps, for example, in applications where it's more feasible to connect to a seperate device and use it's computing power instead of relying on the microcontroller's limited capabilities where a similar approach could be used or someother application
+where it's desirable to manipulate files on the microcontroller while not interrupting the task being performed by it.
